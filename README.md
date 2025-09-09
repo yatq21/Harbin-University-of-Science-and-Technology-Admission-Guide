@@ -3,7 +3,7 @@
 如果你希望将本仓库中的资料完整地下载到本地，请务必使用以下命令，并带上 `--recursive` 参数：
 
 ```bash
-git clone --recursive https://github.com/yourusername/cybersecurity-guide.git
+git clone --recursive git@github.com:yatq21/Introduction-to-Cybersecurity.git
 ```
 
 这样可以确保所有子模块（submodules）中的资源一并下载，否则你可能会遇到资料不完整的情况。
