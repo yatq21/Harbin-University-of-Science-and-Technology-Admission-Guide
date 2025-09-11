@@ -7,7 +7,8 @@ git clone --recursive git@github.com:yatq21/Introduction-to-Cybersecurity.git
 ```
 
 这样可以确保所有子模块（submodules）中的资源一并下载，否则你可能会遇到资料不完整的情况。
-如果下载时间过长，请用一下命令：
+
+如果下载时间过长，请用以下命令：
 
 ```bash
 git clone --depth=1 --recursive git@github.com:yatq21/Introduction-to-Cybersecurity.git
@@ -46,4 +47,5 @@ git pull --recurse-submodules
 本仓库资料仅供学习与研究使用，严禁用于任何非法行为。使用者请遵守当地法律法规，因使用不当产生的后果由使用者自行承担。
 
 ---
+
 
